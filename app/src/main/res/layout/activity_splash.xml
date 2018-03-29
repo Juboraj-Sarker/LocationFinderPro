@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context="com.juborajsarker.locationfinderpro.activity.SplashActivity">
+
+
+    <ImageView
+        android:id="@+id/mainIcon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/main_icon"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/titleTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Location Finder PRO"
+        android:textColor="#fff"
+        android:gravity="center"
+        android:layout_below="@id/mainIcon"
+        android:padding="5dp"/>
+
+
+    <TextView
+        android:id="@+id/errorTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:text="@string/message"
+        android:textColor="#fff"
+        android:padding="8dp"
+        android:gravity="center"
+        android:textSize="10dp" />
+
+
+</RelativeLayout>

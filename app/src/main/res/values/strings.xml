@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Location Finder Pro</string>
+
+    <string name="open_location_settings">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="quotedesc">Welcome! Where should we deliver to?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="nearby_option">
+
+        <item>Select a Place</item>
+        <item>Airport</item>
+        <item>ATM Booth</item>
+        <item>Bank</item>
+        <item>Bakery</item>
+        <item>Bar</item>
+        <item>Book Store</item>
+        <item>Bus Station</item>
+        <item>Car Rental</item>
+        <item>Car Repair</item>
+        <item>Car Wash</item>
+        <item>Coffee Shop</item>
+        <item>Clothing Store</item>
+        <item>Dentist</item>
+        <item>Doctor</item>
+        <item>Electronics Store</item>
+        <item>Embassy</item>
+        <item>Fire Service</item>
+        <item>Gas Station</item>
+        <item>Govt Office</item>
+        <item>Gym</item>
+        <item>Hospital</item>
+        <item>Jewelry Store</item>
+        <item>Laundry</item>
+        <item>Mosque</item>
+        <item>Movie Theater</item>
+        <item>Park</item>
+        <item>Pharmacy</item>
+        <item>Police Nearby</item>
+        <item>Post Office</item>
+        <item>Restaurant</item>
+        <item>School</item>
+        <item>Shopping Mall</item>
+        <item>University</item>
+
+
+    </string-array>
+    <string name="title_activity_nearby_maps">Map</string>
+    <string name="title_activity_single_maps">Map</string>
+
+    <string name="juboraj_sarker"><u>Juboraj Sarker</u></string>
+
+
+    <string name="message">Location Finder PRO needs your gps and internet permission. May be your GPS or Internet connection is not active. Touch here to fix the issue.</string>
+    <string name="location_help">Location Finder will help you to find out your nearby places and also full details about that place from your current location.</string>
+
+
+    <string name="interstitial_full_screen1">ca-app-pub-5809082953640465/3672972508</string>
+    <string name="banner_home_footer_1">ca-app-pub-5809082953640465/4701461600</string>
+    <string name="title_activity_test_map">Map</string>
+
+</resources>
